@@ -1,5 +1,5 @@
 Yo!
-My name is Aidar
+My name is Aidar\n
 ✨ I Love to learn and implement unusual concepts.
 💞️ Staying on the edge of my expertise and pushing it further.
 📫 Consistently exploring and learning new stuff.
